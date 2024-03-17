@@ -134,5 +134,3 @@ Remplacez `ascii_art_converter` par le nom réel de votre binaire.
 ## Contribuer
 
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre une pull request.
-
-Cette version inclut les drapeaux pour indiquer la langue de chaque section et ajoute des instructions sur l'utilisation de la version compilée du programme. Assurez-vous de remplacer `ascii_art_converter` par le nom réel de l'exécutable généré par votre projet.

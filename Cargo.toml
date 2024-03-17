@@ -1,0 +1,10 @@
+[package]
+name = "ascii_art"
+version = "1.0.0"
+edition = "2021"
+author = "Matis C. (M4ti5)"
+
+
+[dependencies]
+image = "0.25"
+colored = "2.1.0"

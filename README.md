@@ -8,15 +8,16 @@ This Rust project converts images into colored ASCII art. It adjusts the image's
 
 ## Exemples
 
-Dans cette section, vous pouvez voir la transformation d'une image en art ASCII coloré par notre programme. Voici des exemples d'images d'entrée et de sortie.
+In this section, you can see the transformation of an image into colored ASCII art by our program. Below are examples of input and output images.
 
-### Image d'Entrée
+### Input Image
 
 ![Input Image](mimic.webp)
 
-### Art ASCII de Sortie
+### Output ASCII Art
 
-La sortie est mieux visualisée dans un terminal prenant en charge la sortie colorée. Voici un aperçu de ce à quoi ressemble l'art ASCII :
+The output is best viewed in a terminal that supports colored output. Here's a glimpse of what the ASCII art looks like:
+
 ![Output image](demo.png)
 You can see a detailed and colored output directly in your compatible terminal by running the program.
 
@@ -133,7 +134,5 @@ Remplacez `ascii_art_converter` par le nom réel de votre binaire.
 ## Contribuer
 
 Les contributions sont les bienvenues ! N'hésitez pas à soumettre une pull request.
-
-```
 
 Cette version inclut les drapeaux pour indiquer la langue de chaque section et ajoute des instructions sur l'utilisation de la version compilée du programme. Assurez-vous de remplacer `ascii_art_converter` par le nom réel de l'exécutable généré par votre projet.
